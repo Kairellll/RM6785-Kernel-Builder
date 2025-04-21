@@ -1,7 +1,7 @@
 RMX2001:
   build: true
   compiler: proton-clang
-  defconfig: RM6785_defconfig
+  defconfig: kirito_defconfig
   kernelSU: true
   dtbo: true
   anykernel: true
