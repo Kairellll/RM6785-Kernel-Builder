@@ -1,4 +1,4 @@
-name: "Build kernels"
+name: "kernelrmx2001"
 
 env:
   OUT_DIR: "${{ github.workspace }}/out"
@@ -8,7 +8,7 @@ on:
 
 jobs:
   Set-repos:
-    name: "🐂 Parse repos.json"
+    name: "repos.mt6785.json"
     runs-on: ubuntu-latest
     outputs:
       repos: ${{ steps.generate-matrix.outputs.repos }}
