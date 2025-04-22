@@ -5,7 +5,7 @@
       "repo": "https://github.com/Chitransh193/Realme-Stormbreaker-Kernel-Salaa",
       "branch": "main",
       "device": "RM6785",
-      "defconfig": "salaa_defconfig"
+      "defconfig": "RM6785_defconfig"
     },
     "withKernelSU": true,
     "toolchains": [
